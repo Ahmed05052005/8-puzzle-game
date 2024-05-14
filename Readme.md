@@ -45,4 +45,4 @@ The program implements a move counter to track the number of moves made by the p
 
 Goal state configuration is displayed for reference, helping players visualize the desired arrangement of tiles.
 
-## Feel free to explore and enjoy solving the 8-Puzzle with this interactive GUI program!
+Feel free to explore and enjoy solving the 8-Puzzle with this interactive GUI program!
